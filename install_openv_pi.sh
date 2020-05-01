@@ -9,7 +9,7 @@ sudo apt-get install libatlas-base-dev gfortran
 sudo apt-get install python3-dev
 sudo apt-get install python3-pip
 
-pip3 install opencv-python
+pip3 install opencv-contrib-python==4.1.0.25
 
 sudo apt-get install libqtgui4
 sudo modprobe bcm2835-v4l2
